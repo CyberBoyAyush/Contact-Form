@@ -2,6 +2,8 @@
 
 ------------
 
+#### Note: This Repo Is Fork Of Tuhin Bhai Repo With Some Color Addition You Can Use His Repo Or Can Use This Repo.
+
 ### Features :
 
 - Cool Layout
